@@ -12,4 +12,4 @@ Left Klik for switch tile<br>
 You must match 3 same color to get score
 
 ## Download
-You can download in [release page](https://github.com/BlueHat358/Angry-Birds/releases)
+You can download in [release page](https://github.com/BlueHat358/Match-Three/releases)
